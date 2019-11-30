@@ -4,3 +4,4 @@
 *.ptx
 *.cubin
 *.fatbin
+.ipynb_checkpoints/cuda-checkpoint.ipynb
