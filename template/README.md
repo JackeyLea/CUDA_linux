@@ -1,5 +1,3 @@
-# CUDA开发项目模板
-
 # cuda算力表
 
 ## Fermi (CUDA 3.2 and later, deprecated from CUDA 9)
@@ -33,13 +31,14 @@ SM61 or SM_61, compute_61 – GTX 1080, GTX 1070, GTX 1060, GTX 1050, GTX 1030, 
 SM62 or SM_62, compute_62 – Drive-PX2, Tegra (Jetson) TX2, Denver-based GPU
 
 ## Volta (CUDA 9 and later)
+
 SM70 or SM_70, compute_70 – Tesla V100
 
 SM71 or SM_71, compute_71 – probably not implemented
 
 SM72 or SM_72, compute_72 – currently unknown
 
-# 配置代码
+## 配置代码
 
 Sample flags for generation on CUDA 7 for maximum compatibility:
 
