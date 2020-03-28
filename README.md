@@ -2,11 +2,11 @@
 
 CUDA从入门到放弃
 
-linux下cuda/qt教程
+linux下cuda/qt/c++教程
 
 ## 配置
 
-CUDA 10.0 10.1
+CUDA 10.2
 
 Cudnn 7.0
 
